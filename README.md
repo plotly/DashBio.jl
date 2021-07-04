@@ -61,7 +61,7 @@ app.layout = daq_booleanswitch(
 run_server(app, "0.0.0.0", debug=true)
 ```
 
-## Uninstall `DashDaq.jl`
+## Uninstall `DashBio.jl`
 
 ```julia    
     using Pkg
