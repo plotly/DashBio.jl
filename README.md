@@ -11,7 +11,7 @@ Demo:
 [https://dash-gallery.plotly.host/Portal/?search=Bioinformatics](https://dash-gallery.plotly.host/Portal/?search=Bioinformatics)
 
 Documentation:
-[https://dash.plotly.com/dash-bio](https://dash.plotly.com/dash-bio)
+[https://dash-julia.plotly.com/dash-bio](https://dash-julia.plotly.com/dash-bio)
 
 ## Components
 
@@ -26,9 +26,7 @@ The Dash Bio components each fall into one of three categories:
 
 - Dash Circos
 - Dash Clustergram
-- Dash Manhattan Plot
 - Dash Needle Plot
-- Dash Volcano Plot
 
 ### Sequence analysis tools
 
