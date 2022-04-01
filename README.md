@@ -11,7 +11,7 @@ Demo:
 [https://dash-gallery.plotly.host/Portal/?search=Bioinformatics](https://dash-gallery.plotly.host/Portal/?search=Bioinformatics)
 
 Documentation:
-[https://dash.plotly.com/dash-bio](https://dash.plotly.com/dash-bio)
+[https://dash.plotly.com/dash-bio](https://dash.plotly.com/julia/dash-bio)
 
 ## Components
 
